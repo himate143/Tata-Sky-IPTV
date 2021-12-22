@@ -19,7 +19,6 @@ def getChannelInfo(channelId):
         "channel_license_url": channel_detail_dict.get('dashWidewineLicenseUrl', ''),
         "channel_url": channel_detail_dict.get('dashWidewinePlayUrl', ''),
         "channel_entitlements": channel_detail_dict.get('entitlements', ''),
-        "channel_logo": channel_meta.get('channelLogo', ''),
         "channel_genre": channel_meta.get('primaryGenre',"")
     }
     channel_list.append(onechannl)
