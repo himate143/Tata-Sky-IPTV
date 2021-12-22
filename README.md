@@ -11,7 +11,7 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 
 # Mod
  - removed external EPG (use - http://www.tsepg.ml/epg.xml.gz)
- - remove logo
+ - removed logo
 
 # Version Changelog 
 ### 2.7
