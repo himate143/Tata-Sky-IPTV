@@ -10,7 +10,7 @@ A script to generate the m3u playlist containing direct streamable file (.mpd or
 + Channels that you want to watch, already subscribed (I'm sorry, no freebies)
 
 # Mod
- - removed external EPG (use - http://www.tsepg.ml/epg.xml.gz)
+ - removed external EPG (use - https://www.tsepg.cf/epg.xml.gz)
  - removed logo
 
 # Version Changelog 
