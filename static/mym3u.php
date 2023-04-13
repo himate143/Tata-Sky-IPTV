@@ -29,7 +29,6 @@ foreach ($lines as $line) {
     }
 }
 
-
 if(isset($_GET['tvg-id']) && $_GET['tvg-id'] != '') {
     if (isset($staticUrls[$_GET['tvg-id']])) {
         echo $staticUrls[$_GET['tvg-id']];
