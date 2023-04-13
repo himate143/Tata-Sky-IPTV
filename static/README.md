@@ -5,7 +5,7 @@
 - Now open download.php (xyz.com/download.php). It will download your playlist from GitHub or Vercel and save it as a Txt file(mym3u.txt).
 - After that, open mym3u.php (xyz.com/mym3u.php). It will display the URL according to the tvg-id
 
-## You must map it per channel data to use it in a playlist.
+## You must map it as per channel data to use it in a playlist.
 E.g. for id 48, the URL will be - xyz.com/mym3u.php?tvg-id=48
 - Your playlist will be like this
 
@@ -17,4 +17,4 @@ E.g. for id 48, the URL will be - xyz.com/mym3u.php?tvg-id=48
 #KODIPROP:inputstream.adaptive.license_key=https://xyz.com/mym3u.php?tvg-id=48
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd
 ```
-### Set the cron job to run download.php as per your need to update JWT
+### Set the cron job to execute download.php as per your need to update JWT
