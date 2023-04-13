@@ -32,15 +32,13 @@ foreach ($lines as $line) {
 
 if(isset($_GET['tvg-id']) && $_GET['tvg-id'] != '') {
     if (isset($staticUrls[$_GET['tvg-id']])) {
-        $url = "http://127.0.0.1/ts/index.php?" . $_GET['tvg-id'];
         echo $staticUrls[$_GET['tvg-id']];
     } else {
         echo "Invalid tvg-id requested\n </br>";
     }
 } else {
     foreach ($staticUrls as $tvgId => $licenseKey) {
-        $url = "http://127.0.0.1/ts/index.php?$tvgId";
-		echo "Static URL for tvg-id $tvgId : $licenseKey\n </br>";
+	echo "Static URL for tvg-id $tvgId : $licenseKey\n </br>";
     }
 }
 
