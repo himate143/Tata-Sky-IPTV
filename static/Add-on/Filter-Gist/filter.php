@@ -1,5 +1,6 @@
 <?php
-
+// download the file or use url
+//$input_file = "https://gist.githubusercontent.com/mahipat99/blablabla/raw";
 $input_file = "mym3u.txt";
 $output_file = "filter.txt";
 $playlist = file($input_file);
@@ -103,5 +104,6 @@ if (isset($http_response_header[0]) && ($http_response_header[0] == 'HTTP/1.1 20
     echo 'Gist updated successfully!';
 } else {
     echo 'Error updating gist.';
+    // unlink($output_file); // delete file after gist upload
 }
 ?>
