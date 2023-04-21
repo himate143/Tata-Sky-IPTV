@@ -1,7 +1,7 @@
 <?php
 // download the file or use url
 //$m3u_file = "https://gist.githubusercontent.com/mahipat99/blablabla/raw/";
-$m3u_file = "m3u.txt";
+$m3u_file = "mym3u.txt";
 $id_file = "id.txt";
 $name_file = "name.txt";
 $merged_file = "id-name.txt";
