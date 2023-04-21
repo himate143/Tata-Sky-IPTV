@@ -1,0 +1,619 @@
+//121 - Tata Play Fitness
+//618 - Tata Play Beauty
+//641 - Tata Play Cooking
+959 - Tata Play Romance
+191 - DD National
+8 - STAR Plus HD
+244 - Star Bharat HD
+15 - SET HD
+556 - SET
+48 - SONY SAB HD
+559 - SONY SAB
+40 - &tv HD
+578 - &TV
+63 - Zee TV HD
+557 - Zee TV
+52 - Colors HD
+543 - Colors
+95 - Tata Play Javed Akhtar
+943 - Tata Play Videshi Kahaniyan
+142 - UTV Bindass
+986 - Tata Play Zindagi
+633 - Investigation Discovery
+619 - Naaptol
+634 - Ezmall
+551 - STAR Utsav
+523 - Zee Anmol
+438 - Colors Rishtey
+554 - Sony Pal
+54 - The Q
+297 - Big Magic
+51 - Dangal
+180 - Anjan TV
+818 - Shemaroo TV
+888 - Ishara
+1045 - Shemaroo UMANG
+990 - Atrangii
+326 - DD Kisan
+808 - Tata Play Hits
+187 - Colors Infinity HD
+307 - Comedy Central HD
+306 - Comedy Central
+544 - Colors Infinity
+789 - Tata Play Hollywood Local
+245 - STAR GOLD HD
+80 - SONY MAX HD
+132 - SONY  MAX
+503 - Zee Cinema HD
+123 - Zee Cinema
+175 - Zee Bollywood
+727 - Zee Classic
+666 - Tata Play Theatre HD
+267 - &pictures HD
+148 - &pictures
+677 - Tata Play ShortsTV
+61 - Colors Cineplex HD
+53 - Colors Cineplex
+730 - B4U Kadak
+100 - Zee Action
+1003 - Tata Play South Talkies
+56 - Sony Wah
+7 - B4U Movies
+120 - SONY MAX 2
+182 - Cinema TV India
+276 - WoW Cinema One
+194 - Dangal 2
+296 - BFLIX
+64 - Zee Anmol Cinema
+823 - Goldmines
+731 - Manoranjan TV
+965 - Manoranjan Grand
+173 - Movies Now
+1000 - Colors Cineplex Bollywood
+234 - MNX
+1037 - Dhamaka Movies B4U
+32 - SONY PIX HD
+558 - SONY PIX
+562 - Movies Now HD
+210 - MN+ HD
+599 - MNX HD
+174 - Romedy Now
+223 - DD Sports
+78 - Star Sports 1 HD
+235 - Star Sports 2 HD
+24 - Star Sports 1 Hindi HD
+246 - Star Sports Select 1 HD
+463 - Star Sports Select 2 HD
+81 - SONY SPORTS TEN 1 HD
+150 - SONY SPORTS TEN 1
+462 - SONY SPORTS TEN 2 HD
+170 - SONY SPORTS TEN 2
+464 - SONY SPORTS TEN 3 HD
+171 - SONY SPORTS TEN 3
+35 - SONY SPORTS TEN 5 HD
+1033 - Sports 18 - 1 HD
+980 - Sports 18 - 1
+812 - Eurosport HD
+693 - Eurosport
+815 - 1sports
+691 - DD News HD
+322 - DD News
+177 - ABP News
+783 - Tata Play Seniors
+179 - NDTV India
+689 - Aaj Tak HD
+153 - Aaj Tak
+1056 - Tata Play Har Ghar Startup
+259 - Zee News
+872 - Tata Play Astro Duniya
+104 - India TV
+209 - News 24
+929 - Tata Play JEE Prep
+928 - Tata Play NEET Prep
+106 - News18 India
+514 - Zee Hindustan
+696 - R Bharat
+183 - India News
+36 - News Nation
+706 - TV9 Bharatvarsh
+485 - TOTAL TV
+932 - Times Now Navbharat HD
+966 - Times Now Navbharat
+831 - News India 24x7
+1010 - Bharat 24
+1031 - Surya Samachar
+475 - Sudarshan News
+1051 - Bharat Express
+286 - APN News
+950 - ET Now Swadesh
+685 - India Voice
+414 - News 1 India
+344 - Hindi Khabar
+291 - Bharat Samachar
+384 - Khabarain Abhi Tak
+441 - Samay
+848 - Network 10
+701 - Jantantra TV
+869 - Prime News
+988 - Har Khabar
+784 - FM News
+260 - Zee Business
+278 - Good News Today
+204 - CNBC Awaaz
+213 - Sansad TV
+212 - Sansad TV - Rajya Sabha
+208 - NDTV 24x7
+90 - TIMES NOW
+1 - INDIA TODAY
+206 - CNN News18
+189 - NewsX
+591 - MIRROR NOW
+255 - WION
+72 - REPUBLIC TV
+324 - DD India
+93 - NDTV Profit Prime
+168 - CNBC-TV18
+88 - ET NOW
+243 - CNN
+188 - BBC World
+190 - Al Jazeera
+157 - Channel News Asia
+131 - France 24
+65 - TV5 Monde Asie
+60 - DW
+105 - Australia TV
+98 - Russia Today
+976 - NHK World Japan
+587 - Super Hungama
+114 - Disney
+71 - Tata Play English in Hindi
+433 - Nick HD+
+138 - Nick
+626 - Tata Play Fun Learn Preschool
+627 - Tata Play Fun Learn Junior
+681 - Cartoon Network HD+
+238 - Cartoon Network
+239 - Pogo
+119 - Discovery Kids
+127 - Sonic Nickelodeon
+45 - SONY YAY!
+994 - Tata Play Toons+
+867 - Gubbare
+905 - ETV Bal Bharat
+118 - Nick Jr
+144 - Disney Junior
+816 - CBeeBies
+111 - Tata Play Smart Manager
+167 - Tata Play Vedic Maths
+605 - National Geographic HD
+137 - National Geographic
+413 - Nat Geo Wild HD
+184 - Nat Geo Wild
+341 - Discovery HD World
+219 - Discovery Channel
+287 - Animal Planet HD World
+130 - Animal Planet
+113 - Discovery Science
+616 - History TV18 HD
+172 - History TV18
+460 - SONY BBC Earth HD
+158 - SONY BBC Earth
+126 - EPIC
+367 - FOX Life HD
+646 - DD Gyan Darshan
+480 - TLC HD
+135 - TLC
+136 - GOOD TiMES
+228 - Discovery Turbo
+484 - Travelxp HD
+55 - Travelxp
+117 - Food Food
+227 - Fashion TV
+735 - Tata Play Ibaadat
+406 - MTV HD
+103 - MTV
+139 - 9XM
+96 - Zoom
+224 - E24
+405 - MTV Beats HD
+236 - MTV Beats
+9 - B4U Music
+17 - Mastiii
+517 - Zing
+39 - 9X Jalwa
+733 - Showbox
+840 - Shirdi Sai Baba
+842 - Somnath Temple
+38 - Aastha
+43 - Sanskar
+446 - Paras Gold One
+397 - MH One Shraddha
+447 - Sadhna TV
+385 - Sharnam TV
+420 - Peace of Mind
+373 - Jinvani Channel
+288 - Dharma Sandesh
+594 - Ishwar TV
+456 - Satsang TV
+458 - Shubh TV
+283 - Aastha Bhajan
+500 - Vedic
+728 - Subharti TV
+775 - DIVYA
+935 - Awakening
+911 - Santwani
+969 - Aadinath TV
+12 - Zee Ganga
+970 - MH One Dil Se
+814 - Zee Biskope
+830 - Filamchi Bhojpuri
+181 - Bhojpuri Cinema
+431 - Oscar Movies Bhojpuri
+729 - B4U Bhojpuri
+899 - Pasand
+79 - News18 Uttar Pradesh Uttarakhand
+838 - Kashish News
+637 - Zee Uttar Pradesh Uttarakhand
+709 - ABP Ganga
+166 - News18 Bihar Jharkhand
+20 - Zee Bihar Jharkhand
+1034 - News State Bihar Jharkhand
+30 - India News UP UK
+613 - News State UP Uttarakhand
+827 - Sadhna Plus News
+973 - Sahara Samay UP-UKD
+316 - DD Bharati
+339 - DD Uttar Pradesh
+317 - DD Bihar
+203 - News18 Madhya Pradesh Chhattisgarh
+512 - Zee Madhya Pradesh Chattisgarh
+27 - IBC 24
+652 - Bansal News
+698 - INH 24X7
+222 - India News MP CG
+643 - News State MP CG
+577 - Swaraj Express SMBC
+829 - Sadhna News MP CG
+902 - News 24 Madhyapradesh Chattisgarh
+937 - Anaadi TV
+993 - News Hour
+1009 - TV27 News
+330 - DD Madhya Pradesh
+205 - News18 Rajasthan
+583 - Zee Rajasthan News
+650 - First India Rajasthan
+14 - India News Rajasthan
+5 - Patrika TV Rajasthan
+870 - Jan TV
+332 - DD Rajasthan
+354 - News18 Jammu Kashmir Ladakh Himachal
+518 - Zee Salaam
+161 - Channel WIN
+365 - Gulistan News
+338 - DD Urdu
+308 - Colors Marathi HD
+134 - Colors Marathi
+501 - Zee Marathi HD
+251 - Zee Marathi
+469 - Star Pravah HD
+248 - Zee YUVA
+658 - Sony Marathi
+515 - Zee Talkies HD
+249 - Zee Talkies
+192 - Fakt Marathi
+800 - Shemaroo MarathiBana
+155 - ABP Majha
+140 - News18 Lokmat
+261 - Zee 24 Taas
+546 - Saam TV
+233 - Jai Maharashtra
+97 - TV9 Marathi
+826 - Lokshahi
+1038 - News State Maharashtra Goa
+336 - DD Sahyadri
+217 - Sangeet Marathi
+305 - Colors Bangla HD
+26 - Colors Bangla
+522 - Zee Bangla HD
+468 - Star Jalsha HD
+34 - SONY AATH
+995 - Tata Play Toons+
+129 - Aakaash Aath
+3 - Ruposhi Bangla
+788 - Enterr10 Bangla
+537 - Jalsha Movies HD
+254 - Zee Bangla Cinema
+896 - Colors Bangla Cinema
+379 - Khushboo Bangla
+102 - ABP Ananda
+258 - Zee 24 Ghanta
+381 - Kolkata TV
+23 - News18 Bangla
+873 - TV9 Bangla
+890 - Republic Bangla
+207 - News Time Bangla
+311 - CTVN AKD Plus
+648 - Calcutta News
+314 - DD Bangla
+215 - Sangeet Bangla
+635 - Zee Telugu HD
+250 - Zee Telugu
+355 - Gemini TV HD
+516 - STAR Maa HD
+359 - ETV HD
+145 - ETV Telugu
+352 - ETV Plus
+996 - Tata Play Toons+
+590 - Telugu Naaptol
+585 - Vissa TV
+645 - Tata Play English in Telugu
+362 - Gemini Movies HD
+387 - Star Maa Movies HD
+388 - Star Maa Gold
+636 - Zee Cinemalu HD
+252 - Zee Cinemalu
+128 - ETV Cinema
+1073 - Tata Play Telugu Classics
+268 - ETV Life
+358 - ETV Abhiruchi
+596 - Sakshi TV
+146 - ETV Andhra Pradesh
+320 - TV5 News
+11 - TV9 Telugu
+160 - NTV Telugu
+225 - ABN Andhra Jyothy
+49 - T News
+274 - V6 Telugu
+83 - ETV Telangana
+349 - HM TV
+430 - Raj News Telugu
+266 - 10 TV
+774 - 4tv News
+337 - DD Saptagiri
+548 - DD Yadagiri
+429 - Raj Musix Telugu
+290 - Bhakti TV
+445 - Shubhavaarta TV
+285 - Aradana TV
+351 - Swara Sagar
+630 - Hindu Dharmam
+521 - Sun TV HD
+496 - Star Vijay HD
+608 - Zee Tamil HD
+257 - Zee Tamil
+674 - Colors Tamil HD
+418 - Colors Tamil
+708 - Jaya TV HD
+200 - Kalaignar TV
+997 - Tata Play Toons+
+439 - Raj TV
+99 - D Tamil
+426 - Raj Digital Plus
+37 - Mega TV
+723 - Tamil Naaptol
+499 - Vasanth TV
+611 - Sirippoli
+272 - Polimer TV
+392 - Makkal TV
+659 - Vendhar TV
+380 - KTV HD
+201 - J Movies
+797 - Zee Thirai
+444 - Travelxp Tamil
+220 - Puthiya Thalaimurai
+524 - Thanthi TV
+198 - Jaya Plus
+21 - News 7 Tamil
+509 - Polimer News
+58 - News18 Tamil Nadu
+44 - Seithigal TV
+525 - Raj News Tamil
+455 - Sathiyam TV
+391 - MalaiMurasu Seithigal
+702 - News J
+968 - News Tamil 24x7
+334 - DD Podhigai
+199 - Jaya Max
+425 - Raj Musix
+647 - Isaiaruvi
+411 - Murasu TV
+400 - Mega Musiq
+434 - Jothi TV
+390 - Madha TV
+282 - Angel TV
+408 - Nambikkai TV
+490 - SVBC 2
+492 - Udaya TV HD
+612 - Colors Kannada HD
+108 - Colors Kannada
+467 - Star Suvarna HD
+675 - Zee Kannada HD
+256 - Zee Kannada
+372 - Jeevan TV
+533 - Colors SUPER
+940 - SIRIKANNADA Alltime
+231 - Udaya Movies
+540 - Star Suvarna Plus
+667 - Colors Kannada Cinema
+810 - Zee Picchar
+661 - Public Movies
+196 - Kasthuri
+152 - TV9 Kannada
+555 - Asianet Suvarna News
+33 - Public TV
+85 - News18 Kannada
+629 - TV5 Kannada
+510 - Raj News Kannada
+342 - Dighvijay 24x7 News
+824 - Power TV
+913 - News 1st
+321 - DD Chandana
+427 - Raj Musix Kannada
+424 - Public Music
+477 - Sri Sankara TV
+660 - Ayush TV
+971 - SVBC 3
+107 - Colors Gujarati
+772 - Tata Play Gujarati Cinema
+692 - Colors Gujarati Cinema
+489 - TV9 Gujarati
+552 - Gujarat Samachar TV
+586 - Sandesh News
+303 - CNBC Bajaar
+6 - News18 Gujarati
+73 - ABP Asmita
+497 - VTV News
+507 - Zee 24 Kalak
+654 - India News Gujarat
+891 - Mantavya News
+974 - Gujarat First
+323 - DD Girnar
+115 - Colors Oriya
+597 - Zee Sarthak
+978 - Sidharth TV
+421 - Peppers TV
+376 - Kanak News
+375 - Kalinga TV
+41 - News18 Odia
+448 - News7
+805 - Nandighosha TV
+907 - Argus News
+333 - DD Odia
+230 - Surya TV
+292 - Asianet HD
+294 - Asianet Plus
+694 - Zee Keralam HD
+684 - Zee Keralam
+10 - Flowers
+178 - Amrita TV
+395 - Mazhavil Manorama HD
+31 - Mazhavil Manorama
+25 - Kairali TV
+553 - We TV
+229 - Surya Movies
+293 - Asianet Movies
+436 - Safari TV
+532 - Asianet News
+211 - Kairali News
+87 - Manorama News
+394 - Mathrubhumi News
+66 - News18 Kerala
+370 - Jaihind TV
+576 - Media One
+270 - Janam TV
+378 - Kaumudy TV
+428 - Raj News Malayalam
+799 - Twenty Four
+541 - Raj Musix Malayalam
+377 - Kappa TV
+269 - Goodness
+356 - God TV
+457 - Shalom TV
+348 - Harvest TV 24x7
+571 - Tata Play Punjab De Rang
+796 - Zee Punjabi
+122 - PTC Punjabi
+399 - MH One
+624 - Pitaara TV
+794 - PTC Punjabi Gold
+580 - Zee Punjab Haryana Himachal Pradesh
+91 - PTC News
+232 - News18 Punjab Haryana
+366 - India News Punjab
+13 - India News Haryana
+371 - Janta TV
+401 - MH One News
+787 - ANB NEWS
+793 - Living India News
+958 - ABP Sanjha
+972 - Khabar Fast
+262 - Zee Delhi NCR Haryana
+989 - STV Haryana News
+335 - DD Punjabi
+92 - PTC Chak De
+922 - PTC Music
+936 - Punjabi Hits
+193 - Chardikla Time TV
+773 - PTC Simran
+567 - Nepal 1
+101 - Rang
+214 - Rengoni TV
+368 - Indradhanu
+353 - DY 365
+68 - News18 Assam North East
+226 - NEWS LIVE
+221 - Protidin Time
+423 - Prag News
+417 - North East Live
+894 - NKTV PLUS
+977 - ND24-Newsdaily.in
+331 - DD North East
+325 - DD Kashir
+449 - Ramdhenu
+991 - DD Meghalaya
+790 - Ek Onkar
+791 - Fateh TV
+912 - Haryana Beats
+807 - In Goa 24x7
+782 - Namma TV
+781 - Prudent
+819 - RDX Goa
+837 - Hare Krsna
+865 - Bangla Bhakti
+866 - Tara News
+887 - Garv Gurbani
+883 - Swar Shree
+893 - Valam TV
+908 - Nimbark TV
+910 - C News Bharat
+841 - Mahakaleshwar Temple, Ujjain
+931 - Green Chillies TV
+892 - Samara News
+944 - Live Iskcon Vrindavan
+947 - Live Patna Sahib Patna
+949 - Live Sri Naga Sai Mandir Coimbatore
+960 - Atmadarshan
+961 - Lakshya TV
+962 - ANN News
+1002 - Saileela TV
+1004 - Shri Ganga Aarti, Varanasi
+1008 - Shri ISKCON Girgaon, Mumbai
+1007 - Shri Ashtavinayak Mahaganpati, Ranjangaon
+1006 - Shri Mahalaxmi Temple,Â Mumbai
+1005 - Shri Babulnaath Temple, Mumbai
+1023 - Daiji World TV
+1018 - Real News Kerala
+1019 - 7x Music
+1035 - Khandoba, Jejuri
+1040 - Jansetu
+1041 - TV Punjab
+1042 - Bless TV
+1043 - Nakshatra Digital
+1044 - Global India
+1060 - Live Punjabi
+1057 - Global Punjab TV
+1058 - Aaj Ki Khabar
+1059 - Indian News
+1070 - MEDIA 9
+8 - STAR Plus HD
+244 - Star Bharat HD
+551 - STAR Utsav
+632 - Star GOLD HD
+245 - STAR GOLD HD
+78 - Star Sports 1 HD
+246 - Star Sports Select 1 HD
+24 - Star Sports 1 Hindi HD
+235 - Star Sports 2 HD
+463 - Star Sports Select 2 HD
+469 - Star Pravah HD
+468 - Star Jalsha HD
+956 - STAR Maa HD
+516 - STAR Maa HD
+387 - Star Maa Movies HD
+957 - Star Maa Movies HD
+388 - Star Maa Gold
+954 - Star Maa Gold
+496 - Star Vijay HD
+467 - Star Suvarna HD
+540 - Star Suvarna Plus
+933 - Asianet Movies - Hot Star Feed
