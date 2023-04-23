@@ -595,25 +595,3 @@
 1058 - Aaj Ki Khabar
 1059 - Indian News
 1070 - MEDIA 9
-8 - STAR Plus HD
-244 - Star Bharat HD
-551 - STAR Utsav
-632 - Star GOLD HD
-245 - STAR GOLD HD
-78 - Star Sports 1 HD
-246 - Star Sports Select 1 HD
-24 - Star Sports 1 Hindi HD
-235 - Star Sports 2 HD
-463 - Star Sports Select 2 HD
-469 - Star Pravah HD
-468 - Star Jalsha HD
-956 - STAR Maa HD
-516 - STAR Maa HD
-387 - Star Maa Movies HD
-957 - Star Maa Movies HD
-388 - Star Maa Gold
-954 - Star Maa Gold
-496 - Star Vijay HD
-467 - Star Suvarna HD
-540 - Star Suvarna Plus
-933 - Asianet Movies - Hot Star Feed
