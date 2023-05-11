@@ -98,12 +98,11 @@ $options = array(
 $context = stream_context_create($options);
 
 $response = file_get_contents($url, false, $context);
-
+//unlink($output_file); // delete file after gist upload
 if (isset($http_response_header[0]) && ($http_response_header[0] == 'HTTP/1.1 200 OK' || $http_response_header[0] == 'HTTP/1.1 201 Created')) {
 
     echo 'Gist updated successfully!';
 } else {
     echo 'Error updating gist.';
-    // unlink($output_file); // delete file after gist upload
 }
 ?>
